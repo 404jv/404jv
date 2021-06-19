@@ -4,14 +4,13 @@
 
 [![Youtube Badge](https://img.shields.io/badge/-Dev%20Lândia-1dba54?style=flat-square&labelColor=1dba54&logo=youtube&logoColor=121212&link=https://youtube.com/devlandia)](https://youtube.com/devlandia) 
 [![LinkedIn Badge](https://img.shields.io/badge/-João%20Victor%20Ramalho%20Alves-1dba54?style=flat-square&labelColor=1dba54&logo=Linkedin&logoColor=121212&link=https://www.linkedin.com/in/404jv/)](https://www.linkedin.com/in/404jv/)
-
 [![Twitter Badge](https://img.shields.io/badge/-@401jv-1dba54?style=flat-square&labelColor=1dba54&logo=twitter&logoColor=121212&link=https://twitter.com/401jv)](https://twitter.com/401jv) 
 [![Gmail Badge](https://img.shields.io/badge/-joaovictorramalho7@gmail.com-1dba54?style=flat-square&labelColor=1dba54&logo=gmail&logoColor=121212&link=https://twitter.com/401jv)](https://twitter.com/401jv)
 
 ### 💚 Sobre
 No momento estou focado no universo JavaScript (Node & React) 💛<br>
 
-Mas sempre me brinco com outras tecnologias tipo C e Python, 🎥 faço alguns vídeos no YouTube (Dev Lândia) e 💚 tenho muita vontade de ajudar as pessoas ao meu redor através da programação.<br />
+Mas sempre brinco com outras tecnologias tipo C e Python, 🎥 faço alguns vídeos no YouTube (Dev Lândia) e 💚 tenho muita vontade de ajudar as pessoas ao meu redor através da programação.<br />
 
 🚀 "Eu sou aquilo que eu faço frequentemente, portanto meu sucesso é um hábito e não um ato".
 
