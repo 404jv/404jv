@@ -1,14 +1,10 @@
 ## 👋 Olá Mundo!, Eu sou o João Victor 🌎
----
 
-## 📽 Redes Sociais
+### 📽 Redes Sociais
 
 [![Twitter Badge](https://img.shields.io/badge/-@401jv-1dba54?style=flat-square&labelColor=1dba54&logo=twitter&logoColor=121212&link=https://twitter.com/401jv)](https://twitter.com/401jv) 
-
 [![LinkedIn Badge](https://img.shields.io/badge/-João%20Victor%20Ramalho%20Alves-1dba54?style=flat-square&labelColor=1dba54&logo=Linkedin&logoColor=121212&link=https://www.linkedin.com/in/404jv/)](https://www.linkedin.com/in/404jv/) 
-
 [![Gmail Badge](https://img.shields.io/badge/-joaovictorramalho7@gmail.com-1dba54?style=flat-square&labelColor=1dba54&logo=gmail&logoColor=121212&link=https://twitter.com/401jv)](https://twitter.com/401jv)
-
 [![Youtube Badge](https://img.shields.io/badge/-Dev%20Lândia-1dba54?style=flat-square&labelColor=1dba54&logo=youtube&logoColor=121212&link=https://youtube.com/devlandia)](https://youtube.com/devlandia) 
 
 ## 🔧 Tecnologias
