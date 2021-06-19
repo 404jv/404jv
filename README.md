@@ -59,9 +59,10 @@ Mas sempre brinco com outras tecnologias tipo C e Python, 🎥 faço alguns víd
     width="40" 
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"
   />
-  <!-- <img 
+  <img 
     align="right"
-    style="width: 160px; height: 175px"
-    src="https://media.giphy.com/media/l0NwI55hcEtEVXV4I/giphy.gif"
-  /> -->
+    src="https://ik.imagekit.io/dwei78ukbe/Untitled_design_XY9UMNQ0O.gif"
+  />
 </div>
+
+---
