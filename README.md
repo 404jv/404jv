@@ -18,6 +18,10 @@ Mas sempre brinco com outras tecnologias tipo C e Python, 🎥 faço alguns víd
 
 <div style="display: inline_block"><br>
   <img 
+    align="left"
+    src="https://ik.imagekit.io/dwei78ukbe/Untitled_design_XY9UMNQ0O.gif"
+  />
+  <img 
     align="center" 
     alt="Joao-Js" 
     height="30" 
@@ -58,10 +62,6 @@ Mas sempre brinco com outras tecnologias tipo C e Python, 🎥 faço alguns víd
     height="30" 
     width="40" 
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"
-  />
-  <img 
-    align="right"
-    src="https://ik.imagekit.io/dwei78ukbe/Untitled_design_XY9UMNQ0O.gif"
   />
 </div>
 
