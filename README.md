@@ -2,10 +2,9 @@
 
 ### 📽 Redes Sociais
 
-<a href="https://youtube.com/devlandia">
+<a href="https://youtube.com/devlandia" target="_blank">
   <img
     src="https://img.shields.io/badge/-Dev%20Lândia-1dba54?style=flat-square&labelColor=1dba54&logo=youtube&logoColor=121212&link=https://youtube.com/devlandia"
-    target="_blank"
     alt="Jao-Youtube"
   />
 </a>
@@ -18,7 +17,7 @@
   />
 </a>
 
-<a href="https://twitter.com/401jv">
+<a href="https://twitter.com/401jv" target="_blank">
   <img
     src="https://img.shields.io/badge/-@401jv-1dba54?style=flat-square&labelColor=1dba54&logo=twitter&logoColor=121212&link=https://twitter.com/401jv"
     target="_blank"
@@ -26,7 +25,7 @@
   />
 </a>
 
-<a href="mailto:joaovictorramalho7@gmail.com">
+<a href="mailto:joaovictorramalho7@gmail.com" target="_blank">
   <img
     src="https://img.shields.io/badge/-joaovictorramalho7@gmail.com-1dba54?style=flat-square&labelColor=1dba54&logo=gmail&logoColor=121212&link=mailto:joaovictorramalho7@gmail.com"
     target="_blank"
