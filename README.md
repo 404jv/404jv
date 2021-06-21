@@ -92,3 +92,7 @@ Mas sempre brinco com outras tecnologias tipo C e Python, 🎥 faço alguns víd
 </div>
 
 ---
+
+## 📚 Artigos Recentes
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
