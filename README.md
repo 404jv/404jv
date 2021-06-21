@@ -104,6 +104,6 @@ Mas sempre brinco com outras tecnologias tipo C e Python, 🎥 faço alguns víd
 <!-- YOUTUBE:END -->
 
 ## 📚 Artigos Recentes
-<!-- BLOG-POST-LIST:START --><br/>🔥 [Ponteiros](https://devlandia.medium.com/ponteiros-5a0ced17c1e0?source=rss-14ff96d8d2fe------2)<br/>💯 [Recursão](https://devlandia.medium.com/recurs%C3%A3o-d57d15437a23?source=rss-14ff96d8d2fe------2)<br/>🚀 [Função em C](https://devlandia.medium.com/fun%C3%A7%C3%A3o-em-c-eaead96dac88?source=rss-14ff96d8d2fe------2)<br/>💫 [Quick Sort](https://devlandia.medium.com/quick-sort-4311435b73aa?source=rss-14ff96d8d2fe------2)<br/>💫 [Listas](https://devlandia.medium.com/listas-483305f0b70b?source=rss-14ff96d8d2fe------2)<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->🔥 <a href="https://devlandia.medium.com/ponteiros-5a0ced17c1e0?source=rss-14ff96d8d2fe------2" target="_blank">Ponteiros</a><br/>💯 <a href="https://devlandia.medium.com/recurs%C3%A3o-d57d15437a23?source=rss-14ff96d8d2fe------2" target="_blank">Recursão</a><br/>🚀 <a href="https://devlandia.medium.com/fun%C3%A7%C3%A3o-em-c-eaead96dac88?source=rss-14ff96d8d2fe------2" target="_blank">Função em C</a><br/>💫 <a href="https://devlandia.medium.com/quick-sort-4311435b73aa?source=rss-14ff96d8d2fe------2" target="_blank">Quick Sort</a><br/>💫 <a href="https://devlandia.medium.com/listas-483305f0b70b?source=rss-14ff96d8d2fe------2" target="_blank">Listas</a><br/><!-- BLOG-POST-LIST:END -->
 
 
