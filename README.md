@@ -93,6 +93,11 @@ Mas sempre brinco com outras tecnologias tipo C e Python, 🎥 faço alguns víd
 
 ---
 <br/><br/><br/><br/>
+
+## 📺 Vídeos Recentes
+<!-- YOUTUBE:START -->
+<!-- YOUTUBE:END -->
+
 ## 📚 Artigos Recentes
 <!-- BLOG-POST-LIST:START -->
 - [Ponteiros](https://devlandia.medium.com/ponteiros-5a0ced17c1e0?source=rss-14ff96d8d2fe------2)
@@ -101,3 +106,5 @@ Mas sempre brinco com outras tecnologias tipo C e Python, 🎥 faço alguns víd
 - [Quick Sort](https://devlandia.medium.com/quick-sort-4311435b73aa?source=rss-14ff96d8d2fe------2)
 - [Listas](https://devlandia.medium.com/listas-483305f0b70b?source=rss-14ff96d8d2fe------2)
 <!-- BLOG-POST-LIST:END -->
+
+
