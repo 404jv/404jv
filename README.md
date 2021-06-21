@@ -96,6 +96,11 @@ Mas sempre brinco com outras tecnologias tipo C e Python, 🎥 faço alguns víd
 
 ## 📺 Vídeos Recentes
 <!-- YOUTUBE:START -->
+- [Ponteiros em C: Como usar ponteiros em C - Revisa Ae #8](https://www.youtube.com/watch?v=MYoW35lGxvA)
+- [Tail-Call Optimization: Como funciona a recursão Tail (Com cauda) - Revisa Ae #7](https://www.youtube.com/watch?v=aireBDbLb6Q)
+- [Recursividade em C: Entenda recursão | Funções recursivas - Revisa Ae #6](https://www.youtube.com/watch?v=NyJqUW2-Wfw)
+- [Funções em C: Programação em C - Revisa Ae #5](https://www.youtube.com/watch?v=gkQWm0Di2VY)
+- [3 passos FÁCEIS para aprender JAVASCRIPT do ZERO](https://www.youtube.com/watch?v=7F7iq3ApmLY)
 <!-- YOUTUBE:END -->
 
 ## 📚 Artigos Recentes
