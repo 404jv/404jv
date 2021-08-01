@@ -34,7 +34,7 @@
 </a>
 
 ### 💚 Sobre
-No momento estou focado no universo JavaScript (Node & React) 💛<br>
+No momento estou focado no universo JavaScript (Node & TypeScript) 💛<br>
 
 Mas sempre brinco com outras tecnologias tipo C e Python, 🎥 faço alguns vídeos no YouTube (Dev Lândia) e 💚 tenho muita vontade de ajudar as pessoas ao meu redor através da programação.<br />
 
