@@ -1,4 +1,4 @@
-## 👋 Olá Mundo!, Eu sou o João Victor 🌎
+## 👋 Olá Mundo! Eu sou o João Victor 🌎
 
 ### 📽 Redes Sociais
 
