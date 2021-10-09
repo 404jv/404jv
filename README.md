@@ -34,7 +34,7 @@
 </a>
 
 ### 💚 Sobre
-No momento estou focado no universo JavaScript (Node & TypeScript) 💛<br>
+No momento estou focado no universo back-end com JavaScript (Node & TypeScript) 💛<br>
 
 Mas sempre brinco com outras tecnologias tipo C e Python, 🎥 faço alguns vídeos no YouTube (Dev Lândia) e 💚 tenho muita vontade de ajudar as pessoas ao meu redor através da programação.<br />
 
@@ -67,13 +67,6 @@ Mas sempre brinco com outras tecnologias tipo C e Python, 🎥 faço alguns víd
     height="32" 
     width="34" 
     src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"
-  />
-  <img 
-    align="center" 
-    alt="Joao-React" 
-    height="30" 
-    width="40" 
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"
   />
   <img 
     align="center" 
