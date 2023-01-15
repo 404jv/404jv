@@ -89,11 +89,11 @@ Mas, possuo conhecimento em React e React Native; 🎥 faço alguns vídeos sobr
 
 ## 📺 Vídeos Recentes
 <!-- YOUTUBE:START -->
- - 👨‍🎤 [Ponteiros em C: Como usar ponteiros em C - Revisa Ae #8](https://www.youtube.com/watch?v=MYoW35lGxvA)
- - 👩‍🚀 [Tail-Call Optimization: Como funciona a recursão Tail &lpar;Com cauda&rpar; - Revisa Ae #7](https://www.youtube.com/watch?v=aireBDbLb6Q)
- - 👾 [Recursividade em C: Entenda recursão | Funções recursivas - Revisa Ae #6](https://www.youtube.com/watch?v=NyJqUW2-Wfw)
- - 👨‍💻 [Funções em C: Programação em C - Revisa Ae #5](https://www.youtube.com/watch?v=gkQWm0Di2VY)
- - 🎮 [3 passos FÁCEIS para aprender JAVASCRIPT do ZERO](https://www.youtube.com/watch?v=7F7iq3ApmLY)<!-- YOUTUBE:END -->
+ - 👨‍🎤 [Como deixar seus projetos Node mais profissionais](https://www.youtube.com/watch?v=flk_8tUwP9k)
+ - 👩‍🚀 [Ponteiros em C: Como usar ponteiros em C - Revisa Ae #8](https://www.youtube.com/watch?v=MYoW35lGxvA)
+ - 👾 [Tail-Call Optimization: Como funciona a recursão Tail &lpar;Com cauda&rpar; - Revisa Ae #7](https://www.youtube.com/watch?v=aireBDbLb6Q)
+ - 👨‍💻 [Recursividade em C: Entenda recursão | Funções recursivas - Revisa Ae #6](https://www.youtube.com/watch?v=NyJqUW2-Wfw)
+ - 🎮 [Funções em C: Programação em C - Revisa Ae #5](https://www.youtube.com/watch?v=gkQWm0Di2VY)<!-- YOUTUBE:END -->
 
 ## 📚 Artigos Recentes
 <!-- BLOG-POST-LIST:START -->
