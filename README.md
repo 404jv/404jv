@@ -36,7 +36,7 @@
 ### 💚 Sobre
 No momento estou focado no universo back-end com JavaScript (Node & TypeScript) 💛<br>
 
-Mas sempre brinco com outras tecnologias tipo C e Python, 🎥 faço alguns vídeos no YouTube (Dev Lândia) e 💚 tenho muita vontade de ajudar as pessoas ao meu redor através da programação.<br />
+Mas, possuo conhecimento em React e React Native; 🎥 faço alguns vídeos sobre essas techs no YouTube ([Dev Lândia](https://www.youtube.com/@devlandia/)); e 💚 tenho muita vontade de ajudar as pessoas ao meu redor através da programação.<br />
 
 🚀 "Eu sou aquilo que eu faço frequentemente, portanto meu sucesso é um hábito e não um ato".
 
