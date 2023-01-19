@@ -89,7 +89,7 @@ Mas, possuo conhecimento em React e React Native; 🎥 faço alguns vídeos sobr
 
 ## 📺 Vídeos Recentes
 <!-- YOUTUBE:START -->
- - 👨‍🎤 [Como configurar o Eslint em menos de 1 minuto](https://www.youtube.com/watch?v=a3XH4jzcUb4)
+ - 👨‍🎤 [Como configurar o Eslint em menos de 1 minuto!](https://www.youtube.com/watch?v=a3XH4jzcUb4)
  - 👩‍🚀 [Como deixar seus projetos Node mais profissionais](https://www.youtube.com/watch?v=flk_8tUwP9k)
  - 👾 [Ponteiros em C: Como usar ponteiros em C - Revisa Ae #8](https://www.youtube.com/watch?v=MYoW35lGxvA)
  - 👨‍💻 [Tail-Call Optimization: Como funciona a recursão Tail &lpar;Com cauda&rpar; - Revisa Ae #7](https://www.youtube.com/watch?v=aireBDbLb6Q)
