@@ -34,9 +34,11 @@
 </a>
 
 ### 💚 Sobre
-No momento estou focado no universo back-end com JavaScript (Node & TypeScript) 💛<br>
+Sou professor de Robótico, programação e criação de conteúdo no YouTube. Ministro aulas para crianças de 8 a 14 anos.
 
-Mas, possuo conhecimento em React e React Native; 🎥 faço alguns vídeos sobre essas techs no YouTube ([Dev Lândia](https://www.youtube.com/@devlandia/)); e 💚 tenho muita vontade de ajudar as pessoas ao meu redor através da programação.<br />
+Apaixonado por desenvolvimento back-end & web desde 2018. No momento estou focado no universo Javascript (Node & Typescript) 💛 e possuo conhecimento em Reactjs!
+
+Eu tenho muita vontade de fazer a diferença na vida das pessoas ao meu redor por meio da programação. Faço conteúdo no YouTube ([Dev Lândia](https://www.youtube.com/@devlandia/) 💚) sobre web usando techs como React e Node. <br />
 
 🚀 "Eu sou aquilo que eu faço frequentemente, portanto meu sucesso é um hábito e não um ato".
 
