@@ -36,6 +36,8 @@
 ### 💚 Sobre
 Sou professor de Robótico, programação e criação de conteúdo no YouTube. Ministro aulas para crianças de 8 a 14 anos.
 
+Além disso, lidero uma startup, chamada de Luna Bus, com 4 pessoas. Foi um projeto criado em um evento e que agora está faturando.
+
 Apaixonado por desenvolvimento back-end & web desde 2018. No momento estou focado no universo Javascript (Node & Typescript) 💛 e possuo conhecimento em Reactjs!
 
 Eu tenho muita vontade de fazer a diferença na vida das pessoas ao meu redor por meio da programação. Faço conteúdo no YouTube ([Dev Lândia](https://www.youtube.com/@devlandia/) 💚) sobre web usando techs como React e Node. <br />
