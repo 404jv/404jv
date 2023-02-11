@@ -93,11 +93,11 @@ Eu tenho muita vontade de fazer a diferença na vida das pessoas ao meu redor po
 
 ## 📺 Vídeos Recentes
 <!-- YOUTUBE:START -->
- - 👨‍🎤 [3 Ferramentas para seus projetos Reactjs](https://www.youtube.com/watch?v=Jv0CtR2Kzng)
- - 👩‍🚀 [Como pegar a data de hoje formatada com Javascript puro!](https://www.youtube.com/watch?v=Hz16fCfH1_s)
- - 👾 [Como criar TESTES de integração com SuperTest e Jest em Nodejs &lpar;Aula 1 de 2&rpar;](https://www.youtube.com/watch?v=gV8P1KupzUE)
- - 👨‍💻 [Como configurar o Eslint em menos de 1 minuto!](https://www.youtube.com/watch?v=a3XH4jzcUb4)
- - 🎮 [Como deixar seus projetos Node mais profissionais](https://www.youtube.com/watch?v=flk_8tUwP9k)<!-- YOUTUBE:END -->
+ - 👨‍🎤 [Como criar alias no GIT - Ubuntu/Linux](https://www.youtube.com/watch?v=NEfdA2s39vs)
+ - 👩‍🚀 [3 Ferramentas para seus projetos Reactjs](https://www.youtube.com/watch?v=Jv0CtR2Kzng)
+ - 👾 [Como pegar a data de hoje formatada com Javascript puro!](https://www.youtube.com/watch?v=Hz16fCfH1_s)
+ - 👨‍💻 [Como criar TESTES de integração com SuperTest e Jest em Nodejs &lpar;Aula 1 de 2&rpar;](https://www.youtube.com/watch?v=gV8P1KupzUE)
+ - 🎮 [Como configurar o Eslint em menos de 1 minuto!](https://www.youtube.com/watch?v=a3XH4jzcUb4)<!-- YOUTUBE:END -->
 
 ## 📚 Artigos Recentes
 <!-- BLOG-POST-LIST:START -->
