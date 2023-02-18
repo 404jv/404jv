@@ -93,11 +93,11 @@ Eu tenho muita vontade de fazer a diferença na vida das pessoas ao meu redor po
 
 ## 📺 Vídeos Recentes
 <!-- YOUTUBE:START -->
- - 👨‍🎤 [Como configurar o Husky no Nodejs](https://www.youtube.com/watch?v=_x3M8AdL5Uw)
- - 👩‍🚀 [Esses minions, viu? 🤣🤣](https://www.youtube.com/watch?v=QjMFiFXISdU)
- - 👾 [Como criar alias no GIT - Linux, Ubuntu, Pop OS](https://www.youtube.com/watch?v=NEfdA2s39vs)
- - 👨‍💻 [3 Ferramentas para seus projetos Reactjs](https://www.youtube.com/watch?v=Jv0CtR2Kzng)
- - 🎮 [Como pegar a data de hoje formatada com Javascript puro!](https://www.youtube.com/watch?v=Hz16fCfH1_s)<!-- YOUTUBE:END -->
+ - 👨‍🎤 [Os de verdade eu sei quem são 🤣🤣](https://www.youtube.com/watch?v=3If2UKw7GyY)
+ - 👩‍🚀 [Como configurar o Husky no Nodejs](https://www.youtube.com/watch?v=_x3M8AdL5Uw)
+ - 👾 [Esses minions, viu? 🤣🤣](https://www.youtube.com/watch?v=QjMFiFXISdU)
+ - 👨‍💻 [Como criar alias no GIT - Linux, Ubuntu, Pop OS](https://www.youtube.com/watch?v=NEfdA2s39vs)
+ - 🎮 [3 Ferramentas para seus projetos Reactjs](https://www.youtube.com/watch?v=Jv0CtR2Kzng)<!-- YOUTUBE:END -->
 
 ## 📚 Artigos Recentes
 <!-- BLOG-POST-LIST:START -->
