@@ -93,11 +93,11 @@ Eu tenho muita vontade de fazer a diferença na vida das pessoas ao meu redor po
 
 ## 📺 Vídeos Recentes
 <!-- YOUTUBE:START -->
- - 👨‍🎤 [3 projetos para praticar Javascript puro!](https://www.youtube.com/watch?v=4NN7hw43vnw)
- - 👩‍🚀 [Como criar Hash no Nodejs com Bcrypt](https://www.youtube.com/watch?v=eFERQi2-eus)
- - 👾 [Os de verdade eu sei quem são 🤣🤣](https://www.youtube.com/watch?v=3If2UKw7GyY)
- - 👨‍💻 [Como configurar o Husky no Nodejs](https://www.youtube.com/watch?v=_x3M8AdL5Uw)
- - 🎮 [Esses minions, viu? 🤣🤣](https://www.youtube.com/watch?v=QjMFiFXISdU)<!-- YOUTUBE:END -->
+ - 👨‍🎤 [Seu time faz essas loucuras em produção? 🤣🤣](https://www.youtube.com/watch?v=M_NUg8uM4ec)
+ - 👩‍🚀 [3 projetos para praticar Javascript puro!](https://www.youtube.com/watch?v=4NN7hw43vnw)
+ - 👾 [Como criar Hash no Nodejs com Bcrypt](https://www.youtube.com/watch?v=eFERQi2-eus)
+ - 👨‍💻 [Os de verdade eu sei quem são 🤣🤣](https://www.youtube.com/watch?v=3If2UKw7GyY)
+ - 🎮 [Como configurar o Husky no Nodejs](https://www.youtube.com/watch?v=_x3M8AdL5Uw)<!-- YOUTUBE:END -->
 
 ## 📚 Artigos Recentes
 <!-- BLOG-POST-LIST:START -->
