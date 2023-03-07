@@ -34,7 +34,7 @@
 </a>
 
 ### 💚 Sobre
-Sou professor de Robótico, programação e criação de conteúdo no YouTube. Ministro aulas para crianças de 8 a 14 anos.
+Sou professor de Robótico, programação e criação de conteúdo no YouTube. Ministro aulas para crianças de 6 a 14 anos.
 
 Além disso, lidero uma startup, chamada Luna Bus, com 4 pessoas. Foi um projeto criado em um evento e que agora está faturando.
 
