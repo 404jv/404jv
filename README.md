@@ -34,7 +34,7 @@
 </a>
 
 ### 💚 Sobre
-Sou professor de Robótico e programação. Ministro aulas para crianças de 6 a 16 anos.
+Sou professor de Robótico e programação. Ministro aulas para crianças de 4 a 16 anos.
 
 Apaixonado por desenvolvimento back-end & web desde 2018. No momento estou focado no universo Javascript (Node & Typescript) 💛 e possuo conhecimento em Reactjs!
 
