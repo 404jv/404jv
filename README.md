@@ -34,7 +34,7 @@
 </a>
 
 ### 💚 Sobre
-Sou professor de Robótica e programação, com experiência em ensinar crianças de 4 a 16 anos. Sou formado em técnico em informática pelo IFPR Goioerê e atualmente curso Análise e Desenvolvimento de Sistemas no IFPR Umuarama.
+Sou professor de Robótica e programação, com experiência em ensinar crianças e adolescentes entre 4 a 17 anos. Sou formado em técnico em informática pelo IFPR Goioerê e atualmente curso Análise e Desenvolvimento de Sistemas no IFPR Umuarama.
 
 Desde 2018, sou apaixonado pelo desenvolvimento back-end e web, com foco em Javascript (Node & Typescript) 💛 e conhecimento em ReactJS.
 
