@@ -34,13 +34,13 @@
 </a>
 
 ### 💚 Sobre
-Sou professor de Robótico e programação. Ministro aulas para crianças de 4 a 16 anos. Além disso, formado em técnico em informático pelo IFPR Goioerê e agora cursando superior de ADS no IFPR Umuarama.
+Sou professor de Robótica e programação, com experiência em ensinar crianças de 4 a 16 anos. Sou formado em técnico em informática pelo IFPR Goioerê e atualmente curso Análise e Desenvolvimento de Sistemas no IFPR Umuarama.
 
-Apaixonado por desenvolvimento back-end & web desde 2018. No momento estou focado no universo Javascript (Node & Typescript) 💛 e possuo conhecimento em Reactjs!
+Desde 2018, sou apaixonado pelo desenvolvimento back-end e web, com foco em Javascript (Node & Typescript) 💛 e conhecimento em ReactJS.
 
-Eu tenho muita vontade de fazer a diferença na vida das pessoas ao meu redor por meio da programação. Faço conteúdo no YouTube ([Dev Lândia](https://www.youtube.com/@devlandia/) 💚) sobre web usando techs como React e Node. <br />
+Meu objetivo é impactar positivamente a vida das pessoas ao meu redor por meio da programação. Produzo conteúdo no YouTube (Dev Lândia 💚), abordando tecnologias como React e Node.
 
-🚀 "Eu sou aquilo que eu faço frequentemente, portanto meu sucesso é um hábito e não um ato".
+🚀 "Eu sou aquilo que faço frequentemente, portanto meu sucesso é um hábito e não um ato".
 
 ### 🔧 Tecnologias
 
