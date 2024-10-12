@@ -91,11 +91,11 @@ Meu objetivo é impactar positivamente a vida das pessoas ao meu redor por meio 
 
 ## 📺 Vídeos Recentes
 <!-- YOUTUBE:START -->
- - 👨‍🎤 [Vale a Pena Comprar o Curso.Dev do Filipe Deschamps? Ou tem opção melhor?](https://www.youtube.com/watch?v=FAZcFvLbqoA)
- - 👩‍🚀 [Seu time faz essas loucuras em produção? 🤣🤣](https://www.youtube.com/watch?v=M_NUg8uM4ec)
- - 👾 [3 projetos para praticar Javascript puro!](https://www.youtube.com/watch?v=4NN7hw43vnw)
- - 👨‍💻 [Como criptografar senha no Nodejs com Bcrypt](https://www.youtube.com/watch?v=eFERQi2-eus)
- - 🎮 [Os de verdade eu sei quem são 🤣🤣](https://www.youtube.com/watch?v=3If2UKw7GyY)<!-- YOUTUBE:END -->
+ - 👨‍🎤 [Como criar ambiente de desenvolvimento Docker com Nodejs e PostgreSQL](https://www.youtube.com/watch?v=YZbrUJGt_SU)
+ - 👩‍🚀 [Vale a Pena Comprar o Curso.Dev do Filipe Deschamps? Ou tem opção melhor?](https://www.youtube.com/watch?v=FAZcFvLbqoA)
+ - 👾 [Seu time faz essas loucuras em produção? 🤣🤣](https://www.youtube.com/watch?v=M_NUg8uM4ec)
+ - 👨‍💻 [3 projetos para praticar Javascript puro!](https://www.youtube.com/watch?v=4NN7hw43vnw)
+ - 🎮 [Como criptografar senha no Nodejs com Bcrypt](https://www.youtube.com/watch?v=eFERQi2-eus)<!-- YOUTUBE:END -->
 
 ## 📚 Artigos Recentes
 <!-- BLOG-POST-LIST:START -->
