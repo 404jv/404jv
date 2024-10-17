@@ -91,7 +91,7 @@ Meu objetivo é impactar positivamente a vida das pessoas ao meu redor por meio 
 
 ## 📺 Vídeos Recentes
 <!-- YOUTUBE:START -->
- - 👨‍🎤 [Como criar ambiente de desenvolvimento Docker com Nodejs e PostgreSQL](https://www.youtube.com/watch?v=YZbrUJGt_SU)
+ - 👨‍🎤 [Como criar ambiente Docker &lpar;Compose&rpar; com Nodejs e PostgreSQL](https://www.youtube.com/watch?v=YZbrUJGt_SU)
  - 👩‍🚀 [Vale a Pena Comprar o Curso.Dev do Filipe Deschamps? Ou tem opção melhor?](https://www.youtube.com/watch?v=FAZcFvLbqoA)
  - 👾 [Seu time faz essas loucuras em produção? 🤣🤣](https://www.youtube.com/watch?v=M_NUg8uM4ec)
  - 👨‍💻 [3 projetos para praticar Javascript puro!](https://www.youtube.com/watch?v=4NN7hw43vnw)
