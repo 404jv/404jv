@@ -91,11 +91,11 @@ Meu objetivo é impactar positivamente a vida das pessoas ao meu redor por meio 
 
 ## 📺 Vídeos Recentes
 <!-- YOUTUBE:START -->
- - 👨‍🎤 [Como criar ambiente Docker &lpar;Compose&rpar; com Nodejs e PostgreSQL](https://www.youtube.com/watch?v=YZbrUJGt_SU)
- - 👩‍🚀 [Vale a Pena Comprar o Curso.Dev do Filipe Deschamps? Ou tem opção melhor?](https://www.youtube.com/watch?v=FAZcFvLbqoA)
- - 👾 [Seu time faz essas loucuras em produção? 🤣🤣](https://www.youtube.com/watch?v=M_NUg8uM4ec)
- - 👨‍💻 [3 projetos para praticar Javascript puro!](https://www.youtube.com/watch?v=4NN7hw43vnw)
- - 🎮 [Como criptografar senha no Nodejs com Bcrypt](https://www.youtube.com/watch?v=eFERQi2-eus)<!-- YOUTUBE:END -->
+ - 👨‍🎤 [O Melhor Jeito de Fazer um Portfólio Backend que Funciona! &lpar;Consegui Meu Emprego Assim&rpar;](https://www.youtube.com/watch?v=aVFHpD86RJQ)
+ - 👩‍🚀 [Como criar ambiente Docker &lpar;Compose&rpar; com Nodejs e PostgreSQL](https://www.youtube.com/watch?v=YZbrUJGt_SU)
+ - 👾 [Vale a Pena Comprar o Curso.Dev do Filipe Deschamps? Ou tem opção melhor?](https://www.youtube.com/watch?v=FAZcFvLbqoA)
+ - 👨‍💻 [Seu time faz essas loucuras em produção? 🤣🤣](https://www.youtube.com/watch?v=M_NUg8uM4ec)
+ - 🎮 [3 projetos para praticar Javascript puro!](https://www.youtube.com/watch?v=4NN7hw43vnw)<!-- YOUTUBE:END -->
 
 ## 📚 Artigos Recentes
 <!-- BLOG-POST-LIST:START -->
