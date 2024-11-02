@@ -91,7 +91,7 @@ Meu objetivo é impactar positivamente a vida das pessoas ao meu redor por meio 
 
 ## 📺 Vídeos Recentes
 <!-- YOUTUBE:START -->
- - 👨‍🎤 [Os 5 Pecados que Dev Inexperiente Comete &lpar;e Como Evitá-los&rpar;](https://www.youtube.com/watch?v=R5MNG3fxffM)
+ - 👨‍🎤 [Os 5 Erros que Dev Inexperiente Comete &lpar;e Como Evitá-los&rpar;](https://www.youtube.com/watch?v=R5MNG3fxffM)
  - 👩‍🚀 [Envio de Mensagem do WhatsApp na Twilio com NodeJS](https://www.youtube.com/watch?v=b-l9aEu_CWY)
  - 👾 [O Melhor Jeito de Criar um Portfólio Backend que Funciona! &lpar;Consegui Meu Emprego Assim&rpar;](https://www.youtube.com/watch?v=aVFHpD86RJQ)
  - 👨‍💻 [Como criar ambiente Docker &lpar;Compose&rpar; com Nodejs e PostgreSQL](https://www.youtube.com/watch?v=YZbrUJGt_SU)
