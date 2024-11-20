@@ -93,7 +93,7 @@ Meu objetivo é impactar positivamente a vida das pessoas ao meu redor por meio 
 <!-- YOUTUBE:START -->
  - 👨‍🎤 [Vale a Pena Cursar Análise e Desenvolvimento de Sistemas Para ser Programador?](https://www.youtube.com/watch?v=rxOlmYzILDw)
  - 👩‍🚀 [Como Aprender a Base da Programação de Graça &lpar;e conselho do Steve Jobs&rpar;](https://www.youtube.com/watch?v=ZAdvkMJ7qy4)
- - 👾 [Programador Junior: Se Ainda Faz Isso, Então Sempre Vai Ser Iniciante](https://www.youtube.com/watch?v=R5MNG3fxffM)
+ - 👾 [É Sério Que Você Ainda Faz Esses Erros de Programador Junior?](https://www.youtube.com/watch?v=R5MNG3fxffM)
  - 👨‍💻 [Envio de Mensagem do WhatsApp na Twilio com NodeJS](https://www.youtube.com/watch?v=b-l9aEu_CWY)
  - 🎮 [O Melhor Jeito de Criar um Portfólio Backend que Funciona! &lpar;Consegui Meu Emprego Assim&rpar;](https://www.youtube.com/watch?v=aVFHpD86RJQ)<!-- YOUTUBE:END -->
 
