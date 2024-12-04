@@ -91,7 +91,7 @@ Meu objetivo é impactar positivamente a vida das pessoas ao meu redor por meio 
 
 ## 📺 Vídeos Recentes
 <!-- YOUTUBE:START -->
- - 👨‍🎤 [Não Seja Programador em 2025 Sem Ver Esse Vídeo Antes](https://www.youtube.com/watch?v=Sw1mFqbDqSc)
+ - 👨‍🎤 [Como Se Tornar Um Programador Do Zero Sem Perder Tempo](https://www.youtube.com/watch?v=Sw1mFqbDqSc)
  - 👩‍🚀 [Vale a Pena Cursar Análise e Desenvolvimento de Sistemas Para ser Programador?](https://www.youtube.com/watch?v=rxOlmYzILDw)
  - 👾 [Como Aprender a Base da Programação de Graça &lpar;e conselho do Steve Jobs&rpar;](https://www.youtube.com/watch?v=ZAdvkMJ7qy4)
  - 👨‍💻 [É Sério Que Você Ainda Faz Esses Erros de Programador Junior?](https://www.youtube.com/watch?v=R5MNG3fxffM)
