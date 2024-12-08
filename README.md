@@ -91,11 +91,11 @@ Meu objetivo é impactar positivamente a vida das pessoas ao meu redor por meio 
 
 ## 📺 Vídeos Recentes
 <!-- YOUTUBE:START -->
- - 👨‍🎤 [Programador: Codando meu Micro-SaaS Até Ficar Milionário - Dia 1](https://www.youtube.com/watch?v=tbAmZnF4HdQ)
- - 👩‍🚀 [Programador: Codando meu Micro-SaaS Até Ficar Milionário - Dia 2](https://www.youtube.com/watch?v=pfea-ntRp6Y)
- - 👾 [As 4 Lições Mais Valiosas que Aprendi com Filipe Deschamps &lpar;Dentro e Fora do Curso&rpar;](https://www.youtube.com/watch?v=_E5WjJ-bKnQ)
- - 👨‍💻 [Como Se Tornar Um Programador Do Zero Sem Perder Tempo](https://www.youtube.com/watch?v=Sw1mFqbDqSc)
- - 🎮 [Vale a Pena Cursar Análise e Desenvolvimento de Sistemas Para ser Programador?](https://www.youtube.com/watch?v=rxOlmYzILDw)<!-- YOUTUBE:END -->
+ - 👨‍🎤 [Programador: Codando meu Micro-SaaS Até Ficar Milionário - Dia 2](https://www.youtube.com/watch?v=cnXROtXUSqk)
+ - 👩‍🚀 [Programador: Codando meu Micro-SaaS Até Ficar Milionário - Dia 1](https://www.youtube.com/watch?v=tbAmZnF4HdQ)
+ - 👾 [Programador: Codando meu Micro-SaaS Até Ficar Milionário - Dia 2](https://www.youtube.com/watch?v=pfea-ntRp6Y)
+ - 👨‍💻 [As 4 Lições Mais Valiosas que Aprendi com Filipe Deschamps &lpar;Dentro e Fora do Curso&rpar;](https://www.youtube.com/watch?v=_E5WjJ-bKnQ)
+ - 🎮 [Como Se Tornar Um Programador Do Zero Sem Perder Tempo](https://www.youtube.com/watch?v=Sw1mFqbDqSc)<!-- YOUTUBE:END -->
 
 ## 📚 Artigos Recentes
 <!-- BLOG-POST-LIST:START -->
