@@ -91,11 +91,11 @@ Meu objetivo é impactar positivamente a vida das pessoas ao meu redor por meio 
 
 ## 📺 Vídeos Recentes
 <!-- YOUTUBE:START -->
- - 👨‍🎤 [Programador: Criando Meu Micro-SaaS Até Ficar Milionário - Dia 3](https://www.youtube.com/watch?v=cnXROtXUSqk)
- - 👩‍🚀 [Programador: Codando meu Micro-SaaS Até Ficar Milionário - Dia 2](https://www.youtube.com/watch?v=pfea-ntRp6Y)
- - 👾 [Programador: Codando meu Micro-SaaS Até Ficar Milionário - Dia 1](https://www.youtube.com/watch?v=tbAmZnF4HdQ)
- - 👨‍💻 [As 4 Lições Mais Valiosas que Aprendi com Filipe Deschamps &lpar;Dentro e Fora do Curso&rpar;](https://www.youtube.com/watch?v=_E5WjJ-bKnQ)
- - 🎮 [Como Se Tornar Um Programador Do Zero Sem Perder Tempo](https://www.youtube.com/watch?v=Sw1mFqbDqSc)<!-- YOUTUBE:END -->
+ - 👨‍🎤 [Vale a Pena Fazer o Curso da Rocketseat? Análise Completa](https://www.youtube.com/watch?v=XJuN9BqZkXI)
+ - 👩‍🚀 [Programador: Criando Meu Micro-SaaS Até Ficar Milionário - Dia 3](https://www.youtube.com/watch?v=cnXROtXUSqk)
+ - 👾 [Programador: Codando meu Micro-SaaS Até Ficar Milionário - Dia 2](https://www.youtube.com/watch?v=pfea-ntRp6Y)
+ - 👨‍💻 [Programador: Codando meu Micro-SaaS Até Ficar Milionário - Dia 1](https://www.youtube.com/watch?v=tbAmZnF4HdQ)
+ - 🎮 [As 4 Lições Mais Valiosas que Aprendi com Filipe Deschamps &lpar;Dentro e Fora do Curso&rpar;](https://www.youtube.com/watch?v=_E5WjJ-bKnQ)<!-- YOUTUBE:END -->
 
 ## 📚 Artigos Recentes
 <!-- BLOG-POST-LIST:START -->
