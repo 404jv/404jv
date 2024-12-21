@@ -92,7 +92,7 @@ Meu objetivo é impactar positivamente a vida das pessoas ao meu redor por meio 
 ## 📺 Vídeos Recentes
 <!-- YOUTUBE:START -->
  - 👨‍🎤 [Programador: Criando Meu Micro-SaaS Até Ficar Milionário - Dia 6](https://www.youtube.com/watch?v=WEKFB02VurU)
- - 👩‍🚀 [Programador: Criando Meu Micro-SaaS Até Ficar Milionário - Dia 6](https://www.youtube.com/watch?v=OZx26PLs4c8)
+ - 👩‍🚀 [Dia 7 Tentando Ficar Rico Com Programação: Criando Ambiente de Desenvolvimento](https://www.youtube.com/watch?v=OZx26PLs4c8)
  - 👾 [Programador: Criando Meu Micro-SaaS Até Ficar Milionário - Dia 5](https://www.youtube.com/watch?v=qI0KhmoMKx4)
  - 👨‍💻 [Programador: Criando Meu Micro-SaaS Até Ficar Milionário - Dia 4](https://www.youtube.com/watch?v=RIk6kX8e82s)
  - 🎮 [Vale a Pena Fazer o Curso da Rocketseat? Análise Completa](https://www.youtube.com/watch?v=XJuN9BqZkXI)<!-- YOUTUBE:END -->
