@@ -91,11 +91,11 @@ Meu objetivo é impactar positivamente a vida das pessoas ao meu redor por meio 
 
 ## 📺 Vídeos Recentes
 <!-- YOUTUBE:START -->
- - 👨‍🎤 [Como Ganhar Experiência em Programação Sem Estar Empregado](https://www.youtube.com/watch?v=VCDKwxtpeJo)
- - 👩‍🚀 [Dia 7 Tentando Ficar Rico Com Programação: Criando Ambiente de Desenvolvimento](https://www.youtube.com/watch?v=OZx26PLs4c8)
- - 👾 [Dia 8 Ficando Rico Com Programação: Integração com API de Pagamento](https://www.youtube.com/watch?v=5wmxS0kvOJI)
- - 👨‍💻 [Programador: Criando Meu Micro-SaaS Até Ficar Milionário - Dia 6](https://www.youtube.com/watch?v=WEKFB02VurU)
- - 🎮 [Programador: Criando Meu Micro-SaaS Até Ficar Milionário - Dia 5](https://www.youtube.com/watch?v=qI0KhmoMKx4)<!-- YOUTUBE:END -->
+ - 👨‍🎤 [Dia 8 Ficando Rico Com Programação: Integração com API de Pagamento](https://www.youtube.com/watch?v=5wmxS0kvOJI)
+ - 👩‍🚀 [Dia 8 Ficando Rico Com Programação: Integração com API de Pagamento](https://www.youtube.com/watch?v=DZYLxh4df6w)
+ - 👾 [Como Ganhar Experiência em Programação Sem Estar Empregado](https://www.youtube.com/watch?v=VCDKwxtpeJo)
+ - 👨‍💻 [Dia 7 Tentando Ficar Rico Com Programação: Criando Ambiente de Desenvolvimento](https://www.youtube.com/watch?v=OZx26PLs4c8)
+ - 🎮 [Programador: Criando Meu Micro-SaaS Até Ficar Milionário - Dia 6](https://www.youtube.com/watch?v=WEKFB02VurU)<!-- YOUTUBE:END -->
 
 ## 📚 Artigos Recentes
 <!-- BLOG-POST-LIST:START -->
