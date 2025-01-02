@@ -92,7 +92,7 @@ Meu objetivo é impactar positivamente a vida das pessoas ao meu redor por meio 
 ## 📺 Vídeos Recentes
 <!-- YOUTUBE:START -->
  - 👨‍🎤 [Dia 8 Ficando Rico Com Programação: Integração com API de Pagamento](https://www.youtube.com/watch?v=5wmxS0kvOJI)
- - 👩‍🚀 [Dia 8 Ficando Rico Com Programação: Integração com API de Pagamento](https://www.youtube.com/watch?v=DZYLxh4df6w)
+ - 👩‍🚀 [Dia 9 Construindo Meu SaaS Até Ficar Rico: Integração com API de Pagamento](https://www.youtube.com/watch?v=DZYLxh4df6w)
  - 👾 [Como Ganhar Experiência em Programação Sem Estar Empregado](https://www.youtube.com/watch?v=VCDKwxtpeJo)
  - 👨‍💻 [Dia 7 Tentando Ficar Rico Com Programação: Criando Ambiente de Desenvolvimento](https://www.youtube.com/watch?v=OZx26PLs4c8)
  - 🎮 [Programador: Criando Meu Micro-SaaS Até Ficar Milionário - Dia 6](https://www.youtube.com/watch?v=WEKFB02VurU)<!-- YOUTUBE:END -->
