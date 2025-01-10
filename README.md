@@ -41,7 +41,7 @@
 
 - Actively engaging with the business, its processes, and driving improvements by delivering value through technology.
 
-- Add me on LinkedIn: [João Victor Ramalho Alves](https://www.linkedin.com/in/404jv/)
+- Add me on LinkedIn: [João Victor Ramalho Alves](https://www.linkedin.com/in/404jv/).
 
 ### Tech Stack
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
