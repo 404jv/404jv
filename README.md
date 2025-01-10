@@ -50,4 +50,7 @@
 ![Nest.js](https://img.shields.io/badge/Nest.js-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 
 ### Cloud
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" width="80" height="80" alt="AWS" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="80" height="80" alt="Google Cloud" />
+<p align="left"> 
+  <img src="https://i.pinimg.com/originals/4a/41/7d/4a417d1f8cab870d4e93498ae1ae2d21.png" alt="amplify" width="80" height="80"/>
+  <img src="https://openupthecloud.com/wp-content/uploads/2020/04/gcp.png?ezimgfmt=rs:312x176/rscb2/ngcb2/notWebP" alt="amplify" width="150" height="80"/>
+</p>
