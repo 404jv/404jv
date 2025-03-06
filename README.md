@@ -33,7 +33,7 @@
 </a>
 
 ### 💚 About
-- I am a Software Developer and a Robotics Teacher with experience teaching children and teenagers aged 4 to 17.
+- I am a Software Developer since 2018.
 
 - I hold a technical degree in Information Technology from IFPR Goioerê, and I am currently pursuing a degree in Systems Analysis and Development at IFPR Umuarama.
 
