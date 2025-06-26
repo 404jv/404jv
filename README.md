@@ -1,9 +1,9 @@
 <h1><img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"> Hello, World! I'm João Victor</h1>
 
 ### 📽 Social
-<a href="https://youtube.com/devlandia" target="_blank">
+<a href="https://www.youtube.com/@joaoalves_dev" target="_blank">
   <img
-    src="https://img.shields.io/badge/-Dev%20Lândia-1dba54?style=flat-square&labelColor=1dba54&logo=youtube&logoColor=121212&link=https://youtube.com/devlandia"
+    src="https://img.shields.io/badge/-Dev%20Lândia-1dba54?style=flat-square&labelColor=1dba54&logo=youtube&logoColor=121212&link=https://www.youtube.com/@joaoalves_dev"
     alt="Jao-Youtube"
   />
 </a>
